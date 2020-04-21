@@ -1,0 +1,1 @@
+Python script to find the RGB value of a picture. `mask.jpg` is used to only find the color in the center of a picture.
